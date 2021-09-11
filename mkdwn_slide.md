@@ -4,7 +4,7 @@ class: top, center
 
 .left[- This will make the text centred
 
-      - In the middle of the slide]
+.left[- In the middle of the slide]
 
 ---
 
