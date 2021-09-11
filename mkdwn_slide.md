@@ -1,10 +1,9 @@
-class: top, center
 
-# Introduction
 
-.left[- This will make the text centred]
+.center[# Introduction]
 
-.left[- In the middle of the slide]
+.left[- This will make the text centred
+      - In the middle of the slide]
 
 ---
 
