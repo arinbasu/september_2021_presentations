@@ -1,4 +1,8 @@
+class: middle, center
 # Introduction
+
+- This will make the text centred and 
+- In the middle of the slide
 
 ---
 
