@@ -2,7 +2,7 @@ class: top, center
 
 # Introduction
 
-.left
+class: .left
 
 - This will make the text centred and 
 - In the middle of the slide
