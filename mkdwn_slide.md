@@ -27,6 +27,9 @@ Which of the following is a correct example of Environmental Health?
 - **Polluted Air causing Chronic Cough**
 
 ---
+background-image: url("1920px-View_looking_north-west_towards_Auckland_from_top_of_Mount_Puketutu.jpg")
+
 # Image
-background-image: url(1920px-View_looking_north-west_towards_Auckland_from_top_of_Mount_Puketutu.jpg)
+
+
 
