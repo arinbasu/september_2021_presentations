@@ -2,8 +2,8 @@ class: top, center
 
 # Introduction
 
-- .left This will make the text centred and 
-- .left In the middle of the slide
+- .left [This will make the text centred and] 
+- .left [In the middle of the slide]
 
 ---
 
