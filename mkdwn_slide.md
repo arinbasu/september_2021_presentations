@@ -31,4 +31,4 @@ Which of the following is a correct example of Environmental Health?
 ---
 # Image
 
-![mount](1920px-View_looking_north-west_towards_Auckland_from_top_of_Mount_Puketutu.jpg = 200x)
+![mount](1920px-View_looking_north-west_towards_Auckland_from_top_of_Mount_Puketutu.jpg =200x)
