@@ -1,6 +1,6 @@
 
-
-.center[# Introduction]
+class: center, top
+# Introduction
 
 .left[- This will make the text centred
       - In the middle of the slide]
