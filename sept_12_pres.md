@@ -1,1 +1,11 @@
+# GRADE lecture
+
+---
+
+# Guidelines
+
+---
+
+# Workflow
+
 
