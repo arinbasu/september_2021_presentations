@@ -43,7 +43,9 @@ background-image: url("./1920px-View_looking_north-west_towards_Auckland_from_to
   
  <div class = "mermaid">
   graph LR
+  
     x-->y
+  
   </div>
   
 ---
