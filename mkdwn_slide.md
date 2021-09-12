@@ -35,11 +35,6 @@ background-image: url("./1920px-View_looking_north-west_towards_Auckland_from_to
 ---
 # Flowchart
 
-<script src = "./mermaid.min.js">
-  </script>
-  
-<script>mermaild.initialize({startOnLod:true});
-  </script>
   
  <div class = "mermaid">
   graph LR
