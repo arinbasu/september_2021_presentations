@@ -18,6 +18,17 @@
 
 - Edit the `source.md` file
 
+---
 
+class: middle, center
+
+# This title is centred and in the middle of the slide
+
+---
+class: bottom
+
+# This title is in the bottom of the slide
+
+---
 
 
