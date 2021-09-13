@@ -41,3 +41,5 @@ class: bottom
 .center[This text is aligned in the center]
 
 ---
+
+background-image: url(https://unsplash.com/photos/_WuPjE-MPHo)
