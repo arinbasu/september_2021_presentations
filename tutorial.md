@@ -42,4 +42,4 @@ class: bottom
 
 ---
 
-background-image: url(https://unsplash.com/photos/_WuPjE-MPHo)
+background-image: url(tajmahal.jpeg)
