@@ -31,6 +31,9 @@ class: bottom
 
 ---
 
+# Text alignment
+
+
 .left[This is a left aligned text]
 
 .right[This text is aligned to the right]
